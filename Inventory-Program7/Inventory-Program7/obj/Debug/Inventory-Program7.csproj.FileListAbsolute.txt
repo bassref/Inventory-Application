@@ -1,0 +1,51 @@
+c:\users\esther\documents\visual studio 2013\Projects\Inventory-Program7\Inventory-Program7\bin\Debug\Inventory-Program7.exe.config
+C:\Users\Esther\Google Drive\ContempProgLang\Inventory-Program7\Inventory-Program7\bin\Debug\Inventory-Program7.exe.config
+E:\Contemp. Prog. Lang\Inventory-Program7\Inventory-Program7\Inventory-Program7\bin\Debug\Inventory-Program7.exe.config
+E:\Contemp. Prog. Lang\Inventory-Program7\Inventory-Program7\Inventory-Program7\obj\Debug\Inventory-Program7.csprojResolveAssemblyReference.cache
+E:\Contemp. Prog. Lang\Inventory-Program7\Inventory-Program7\Inventory-Program7\obj\Debug\Inventory_Program7.ClinicInventory.resources
+E:\Contemp. Prog. Lang\Inventory-Program7\Inventory-Program7\Inventory-Program7\obj\Debug\Inventory_Program7.Clinic.resources
+E:\Contemp. Prog. Lang\Inventory-Program7\Inventory-Program7\Inventory-Program7\obj\Debug\Inventory_Program7.Properties.Resources.resources
+E:\Contemp. Prog. Lang\Inventory-Program7\Inventory-Program7\Inventory-Program7\obj\Debug\Inventory-Program7.csproj.GenerateResource.Cache
+E:\Contemp. Prog. Lang\Inventory-Program7\Inventory-Program7\Inventory-Program7\bin\Debug\Inventory-Program7.exe
+E:\Contemp. Prog. Lang\Inventory-Program7\Inventory-Program7\Inventory-Program7\bin\Debug\Inventory-Program7.pdb
+E:\Contemp. Prog. Lang\Inventory-Program7\Inventory-Program7\Inventory-Program7\obj\Debug\Inventory-Program7.exe
+E:\Contemp. Prog. Lang\Inventory-Program7\Inventory-Program7\Inventory-Program7\obj\Debug\Inventory-Program7.pdb
+C:\Users\Esther\Google Drive\ContempProgLang\Inventory-Program7\Inventory-Program7\Inventory-Program7\bin\Debug\Inventory-Program7.exe.config
+C:\Users\Esther\Google Drive\ContempProgLang\Inventory-Program7\Inventory-Program7\Inventory-Program7\bin\Debug\Inventory-Program7.exe
+C:\Users\Esther\Google Drive\ContempProgLang\Inventory-Program7\Inventory-Program7\Inventory-Program7\bin\Debug\Inventory-Program7.pdb
+C:\Users\Esther\Google Drive\ContempProgLang\Inventory-Program7\Inventory-Program7\Inventory-Program7\obj\Debug\Inventory_Program7.Add_Supplies.resources
+C:\Users\Esther\Google Drive\ContempProgLang\Inventory-Program7\Inventory-Program7\Inventory-Program7\obj\Debug\Inventory_Program7.ClinicInventory.resources
+C:\Users\Esther\Google Drive\ContempProgLang\Inventory-Program7\Inventory-Program7\Inventory-Program7\obj\Debug\Inventory_Program7.Clinic.resources
+C:\Users\Esther\Google Drive\ContempProgLang\Inventory-Program7\Inventory-Program7\Inventory-Program7\obj\Debug\Inventory_Program7.Login.resources
+C:\Users\Esther\Google Drive\ContempProgLang\Inventory-Program7\Inventory-Program7\Inventory-Program7\obj\Debug\Inventory_Program7.Properties.Resources.resources
+C:\Users\Esther\Google Drive\ContempProgLang\Inventory-Program7\Inventory-Program7\Inventory-Program7\obj\Debug\Inventory-Program7.csproj.GenerateResource.Cache
+C:\Users\Esther\Google Drive\ContempProgLang\Inventory-Program7\Inventory-Program7\Inventory-Program7\obj\Debug\Inventory-Program7.exe
+C:\Users\Esther\Google Drive\ContempProgLang\Inventory-Program7\Inventory-Program7\Inventory-Program7\obj\Debug\Inventory-Program7.pdb
+C:\Users\Esther\Google Drive\ContempProgLang\Inventory-Program7\Inventory-Program7\Inventory-Program7\obj\Debug\Inventory-Program7.csprojResolveAssemblyReference.cache
+D:\Contemporary Programming Languages\Inventory-Program7\Inventory-Program7\Inventory-Program7\bin\Debug\Inventory-Program7.exe.config
+D:\Contemporary Programming Languages\Inventory-Program7\Inventory-Program7\Inventory-Program7\obj\Debug\Inventory-Program7.exe
+D:\Contemporary Programming Languages\Inventory-Program7\Inventory-Program7\Inventory-Program7\obj\Debug\Inventory-Program7.pdb
+D:\Contemporary Programming Languages\Inventory-Program7\Inventory-Program7\Inventory-Program7\bin\Debug\Inventory-Program7.exe
+D:\Contemporary Programming Languages\Inventory-Program7\Inventory-Program7\Inventory-Program7\bin\Debug\Inventory-Program7.pdb
+D:\Contemporary Programming Languages\Inventory-Program7\Inventory-Program7\Inventory-Program7\obj\Debug\Inventory-Program7.csprojResolveAssemblyReference.cache
+D:\Contemporary Programming Languages\Inventory-Program7\Inventory-Program7\Inventory-Program7\obj\Debug\Inventory_Program7.Add_Supplies.resources
+D:\Contemporary Programming Languages\Inventory-Program7\Inventory-Program7\Inventory-Program7\obj\Debug\Inventory_Program7.ClinicInventory.resources
+D:\Contemporary Programming Languages\Inventory-Program7\Inventory-Program7\Inventory-Program7\obj\Debug\Inventory_Program7.Clinic.resources
+D:\Contemporary Programming Languages\Inventory-Program7\Inventory-Program7\Inventory-Program7\obj\Debug\Inventory_Program7.Login.resources
+D:\Contemporary Programming Languages\Inventory-Program7\Inventory-Program7\Inventory-Program7\obj\Debug\Inventory_Program7.Properties.Resources.resources
+D:\Contemporary Programming Languages\Inventory-Program7\Inventory-Program7\Inventory-Program7\obj\Debug\Inventory-Program7.csproj.GenerateResource.Cache
+F:\Contemporary Programming Languages\Inventory-Program7\Inventory-Program7\Inventory-Program7\bin\Debug\Inventory-Program7.exe.config
+F:\Contemporary Programming Languages\Inventory-Program7\Inventory-Program7\Inventory-Program7\obj\Debug\Inventory-Program7.exe
+F:\Contemporary Programming Languages\Inventory-Program7\Inventory-Program7\Inventory-Program7\obj\Debug\Inventory-Program7.pdb
+C:\Users\Esther\Documents\Visual Studio 2015\Projects\Inventory-Program7\Inventory-Program7\bin\Debug\Inventory-Program7.exe.config
+C:\Users\Esther\Documents\Visual Studio 2015\Projects\Inventory-Program7\Inventory-Program7\bin\Debug\Inventory-Program7.exe
+C:\Users\Esther\Documents\Visual Studio 2015\Projects\Inventory-Program7\Inventory-Program7\bin\Debug\Inventory-Program7.pdb
+C:\Users\Esther\Documents\Visual Studio 2015\Projects\Inventory-Program7\Inventory-Program7\obj\Debug\Inventory-Program7.csprojResolveAssemblyReference.cache
+C:\Users\Esther\Documents\Visual Studio 2015\Projects\Inventory-Program7\Inventory-Program7\obj\Debug\Inventory_Program7.Add_Supplies.resources
+C:\Users\Esther\Documents\Visual Studio 2015\Projects\Inventory-Program7\Inventory-Program7\obj\Debug\Inventory_Program7.ClinicInventory.resources
+C:\Users\Esther\Documents\Visual Studio 2015\Projects\Inventory-Program7\Inventory-Program7\obj\Debug\Inventory_Program7.Clinic.resources
+C:\Users\Esther\Documents\Visual Studio 2015\Projects\Inventory-Program7\Inventory-Program7\obj\Debug\Inventory_Program7.Login.resources
+C:\Users\Esther\Documents\Visual Studio 2015\Projects\Inventory-Program7\Inventory-Program7\obj\Debug\Inventory_Program7.Properties.Resources.resources
+C:\Users\Esther\Documents\Visual Studio 2015\Projects\Inventory-Program7\Inventory-Program7\obj\Debug\Inventory-Program7.csproj.GenerateResource.Cache
+C:\Users\Esther\Documents\Visual Studio 2015\Projects\Inventory-Program7\Inventory-Program7\obj\Debug\Inventory-Program7.exe
+C:\Users\Esther\Documents\Visual Studio 2015\Projects\Inventory-Program7\Inventory-Program7\obj\Debug\Inventory-Program7.pdb
